@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T12:27:29Z" name="Default suite" finished-at="2024-08-06T12:27:57Z" duration-ms="27853">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T12:27:29Z" name="Default test" finished-at="2024-08-06T12:27:57Z" duration-ms="27853">
+      <class name="fileDownload.DownloadFile">
+        <test-method signature="downloadfile()[pri:0, instance:fileDownload.DownloadFile@147e2ae7]" started-at="2024-08-06T12:27:29Z" name="downloadfile" finished-at="2024-08-06T12:27:56Z" duration-ms="27769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadfile -->
+      </class> <!-- fileDownload.DownloadFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
